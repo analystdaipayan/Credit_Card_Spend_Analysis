@@ -7,8 +7,8 @@
 - The data ranges from the ```Year 2013``` - ```Year 2015```.
 
 ## 🛠️ Tools Used
-- Excel
-- Microsoft SQL Server
+- ```Excel```
+- ```Microsoft SQL Server```
 
 ## ❓ Analysis Scenarios
 - [Get the Top 5 Cities with the highest spends and also their contribution percentage in the overall spends.](https://github.com/AnalystDaipayan/Credit_Card_Spend_Analysis/blob/main/SQLSolution/SQLAnalysis.md)
