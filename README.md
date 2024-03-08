@@ -27,10 +27,14 @@
 - Usage of ```Window Functions``` like ```RANK, DENSE RANK, LEAD``` and ```LAG```.
 
 ## 🎯 Analysis Results 
-- You can check from the query about the maximum winning gold medal team across each Olympic year, although in 120 years, ```Team United States``` have the maximum gold medals with the ```305 Count```.
-- The Player named ```Raymond Clarence "Ray" Ewry``` have won the maximum ```10 Gold Medals```, but never won any other medal ever.
-- ```India``` won it's first ```Gold Medal``` in ```1952```, first ```Silver Medal``` in ```Year 1900``` and the first ```Bronze Medal``` in ``` Year 1952```.
-- The Players named - ```Aleksandr Vladimirovich Popov```, ```Edward Patrick Francis "Eddie" Eagan```, ```Gillis Emanuel Grafstrm```, ```Kim So-Hui``` won ```Gold Medals in both Summer and Winter Olympics```.
+- The top 5 cities along with their spend percentage are : ```Greater Mumbai (14.15%)```, ```Bengaluru (14.05%)```,```Ahmedabad (13.93%)```,```Delhi (13.67%)```, ```Kolkata (2.83%)```.
+- ```Gold Card``` made the highest total spend of ```55455064``` in ```Jan-2105```, ```Platinum Card``` made the highest total spend of ```57936507``` in ```Aug-2014```, ```Signature Card``` made the highest total spend of ```58799522``` in ```Dec-2013``` and ```Silver Card``` made ```59723549``` in ```Mar-2015```.
+- With the given transaction id's the different card types made their cummulative total of 1000000: ```Transaction-ID 1522 - Gold```,```Transaction-ID 191 - Platinum```,```Transaction-ID 73 - Signature``` and ```Transaction-ID 1522 - Silver```.
+- The ```Dhamtari City``` had the ```lowest percentage spend for Gold Card``` Type resulting in ```33.29%```.
+- The ```females``` had the ```highest spend percentage``` share for the ```Bills Expense Type``` resulting in ```63.94%```, followed by spend in ```Food``` with ```54.90%``` and ```Travel``` with ```51.13%```.
+- The ```Gold and Travel```, ```card and expense combination type``` saw the ```highest Month-on-Month Growth``` in ```January-2014```.
+- ```During Weekends``` the ```Sonepur City``` had the ```highest spend to transaction ratio``` resulting to an ```amount of 299905```.
+- ```Benagluru``` took the ```least number of days to reach it's 500th Transaction```, within ```81 Days```.
 
 ## 🎉 That's it! 🎉
 
